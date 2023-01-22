@@ -1,2 +1,2 @@
-This file should be imported and executed in Google Colab.
+These files should be imported and executed in Google Colab.
 
