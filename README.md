@@ -1,2 +1,2 @@
-# Project-5
-Internet Explore
+This file should be imported and executed in Google Colab.
+
